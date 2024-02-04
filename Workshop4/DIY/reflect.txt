@@ -1,0 +1,20 @@
+
+
+/*/////////////////////////////////////////////////////////////////////////
+			 Workshop - #4 (P2)
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 6 october 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+I experienced another appeal of C++ as a result of this workshop and class. This time, I was able to pick up techniques for dealing with objects similar to object-oriented programming. The constructor and destructor used in this LAB and DIY courses are among the things I studied. When an object is formed, the constructor is automatically invoked. A constructor can be implemented in a variety of ways. The constructor can be utilized by overloading it even though it has no return value. Additionally, I can establish default values and create a default constructor that calls the default values I set as soon as the constructor is called, or I can create a constructor that accepts parameters and puts the value into a member variable.For this LAB workshop, I overloaded the Canister object constructor with three cases. As a result, the initialized value changed according to the parameter you entered. Examples of canisters are canister(), canister(const char *contentName), and canister(double height, double diameter, const char *contentName = nullptr). Additionally, the destructor function is automatically called when an object that was created is destroyed. It is necessary to eliminate the constructor that was invoked and produced. However, any object with dynamic memory needs to be removed before the constructor is destroyed. I used the destructor to destroy a memory because of this. Similar to the constructor, the destructor formats object names with tilde, such as ~CarInventory(). There are no values or parameters for the destroyer.
+
+      
+
+    

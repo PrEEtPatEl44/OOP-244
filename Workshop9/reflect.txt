@@ -1,0 +1,14 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #9 (P2)
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 26 November 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+I thoroughly studied the fundamentals of object-oriented programming in C++ as I completed the workshop and project goals. First, a strong Student class with dynamic memory allocation for the name was created, and then it was extended to a Graduate class that was derived from the Student class. The need of building appropriate constructors and methods—such as a default constructor and a parameterized constructor for dynamic memory management—was emphasized during the session. Ensuring efficient memory handling during copying, assignment, and destruction required putting the Rule of Three—copy constructor, copy assignment operator, and destructor—into practice. The Graduate class managed extra dynamic memory for the thesis title and supervisor name while inheriting properties from the Student class, demonstrating the successful implementation of the inheritance structure. Obstacles were surmounted, especially in ensuring appropriate elimination of offspring in the ladder of inheritance. My knowledge of inheritance, memory management, and the fundamentals of C++ object-oriented programming has improved as a result of this training.

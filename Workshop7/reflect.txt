@@ -1,0 +1,18 @@
+/*/////////////////////////////////////////////////////////////////////////
+						  Workshop - #7 (P2)
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 12 November 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+
+
+I ran into trouble managing the Pack and Container classes' incorrect statuses while working on the assignment. In particular, controlling mistakes made while reading turned out to be challenging. I learned how important it is to provide clear error messages and make sure the software is resilient to erroneous user input. I improved my error-handling techniques as a result of this experience, resulting in a software that is more robust and user-friendly.
+
+To sum up, this project introduced new ideas like namespaces and custom operators while also giving me a great chance to use and reinforce my understanding of C++ classes, inheritance, and error handling. The challenge I faced deepened my grasp of defensive programming strategies and improved my problem-solving abilities.

@@ -1,0 +1,16 @@
+/*/////////////////////////////////////////////////////////////////////////
+						  Workshop - #6 
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 5th November 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+
+
+There were a few difficult criteria in the workshop and project that needed to be carefully considered. One major problem was managing dynamic memory, particularly when working with dynamically allocated {m_name}. In order to get around this, I went back over the dynamic memory management course notes and put in a lot of practice to make sure that memory was allocated and dealt with correctly. A strong grasp of stream handling and data formatting was necessary to handle operator overloading for the stream extraction and insertion operators ({<<{ and `>>}). In order to address this, I went over the pertinent course materials and looked at operator overloading cases. Another difficult task was implementing validation criteria for class attributes, which required thorough inspections and test cases. In order to solve this, I divided each rule into a set of conditions and iterated through the code. By tackling these difficulties with a focus on education and real-world experience, I gained a deeper understanding of the workshop's core concepts and was better prepared for its implementation.

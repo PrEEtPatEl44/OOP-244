@@ -1,0 +1,12 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #10 (P1)
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 26 November 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+I've gained important knowledge about modular programming and template use while writing this C++ code. The "selection" module has two functions: "csvDisplaySelection" shows chosen elements in a formatted fashion, and "select" dynamically allocates memory to hold indices where a key appears in an array. Constrained casts guarantee index correctness, and appropriate memory management—including deallocation—avoids possible leaks. This modular approach, in my experience, promotes excellent coding habits by improving code reusability and maintainability. But I had trouble appropriately arranging the code; at first, I got a "identifier not found" warning. This made me go back and review the organization and compilation procedures, which strengthened my comprehension of file structure and compilation specifications. All in all, the experience proved how crucial it is to pay close attention to details and have a solid grasp of coding.

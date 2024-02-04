@@ -1,0 +1,9 @@
+
+
+There were quite a few things i learned during this workshop but the most significant thing I learnt during this class was how to use namespaces, though there were many other things I picked up as well. We can effectively organize and encapsulate code using namespaces. By using the 'namespace sdds', we provide our functions and structures a distinct context and prevent naming conflicts with variables or functions from other areas of the program or outside libraries. Particularly in larger projects with several contributors, this strategy improves the readability and maintainability of the code.
+
+However, using string functions to locate a string match in the data file proved to be one of the difficulties I faced during the training. String parsing and comparison required careful management because even little mistakes could result in inaccurate results or unexpected behavior.
+
+It was crucial to know how to use'strStr' and 'toLowerCaseAndCopy' functions appropriately in order for the software to accurately search for partial name matches in the data file. It was particularly difficult to debug and test these string manipulation algorithms, but the experience taught us a lot about how to use strings effectively in C++.
+
+Overall, key skills learned during the course included learning the usage of namespaces and choosing the proper libraries for functions. Additionally, overcoming string manipulation's difficulties illustrated how crucial it is to pay close attention to detail and do extensive testing while working with complex data processing jobs in programming.

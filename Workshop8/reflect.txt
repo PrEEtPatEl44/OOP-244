@@ -1,0 +1,14 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #8 (P2)
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 19 November 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+I developed a thorough knowledge of C++ virtual functions, inheritance, and abstract classes throughout this training. I had never heard of pure virtual functions or abstract base classes before, but using them in the Shape hierarchy gave me a lot of practical experience. Polymorphic behavior was made possible by the usage of virtual functions, which allowed several derived classes to react differently to the same interface.Understanding the nuances of virtual functions and how they contribute to dynamic polymorphism was one of the challenges I had to overcome. But I was able to get beyond this obstacle by paying attention to the course notes and the step-by-step directions. Furthermore, working with memory management improved my comprehension of resource management in C++, particularly in the LblShape class with dynamically allocated labels.All things considered, the workshop reaffirmed the value of encapsulation and abstraction, encouraging modular and maintainable programming. Working on concrete classes such as Rectangle and Line highlighted how virtual functions may be used to create a variety of similar but distinct forms. This practical experience really improved my understanding of the fundamentals of object-oriented programming.

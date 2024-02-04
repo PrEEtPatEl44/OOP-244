@@ -1,0 +1,18 @@
+
+
+/*/////////////////////////////////////////////////////////////////////////
+						  Workshop - #3 (P2)
+Full Name  : Preet Bhagyesh Patel
+Student ID#: 132603226
+Email      : pbpatel48@myseneca.ca
+Date       : 21 september 2023
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+
+I picked up a number of crucial C++ programming topics and methods throughout this class. Within the sdds namespace, the workshop specifies a C++ class referred to as Train. In order to better organize and abstract train information, this class encompasses data and methods relevant to trains.The workshop manages character arrays for storing train names using dynamic memory allocation (using new[] and delete[]). For handling variable-length strings and avoiding buffer overflows, this dynamic memory allocation is essential.
+The session uses private data members and public member functions to illustrate the concepts of privacy and encapsulation. This improves workshop maintainability and security by ensuring that a Train object's internal state can only be accessed and changed using well specified interfaces.whether the quantity of passengers and the train's departure time fall within acceptable parameters. This preserves data integrity and helps to stop unexpected behavior.The workshop uses delete[] to deallocate memory for dynamically allocated character arrays, which results in proper memory management. This stops memory leaks and guarantees effective memory use.Understanding and effectively implementing dynamic memory allocation is the most difficult part of this course since poor memory management can result in memory leaks and other runtime problems. A dependable and robust workshop must also have thorough input validation and error management, which can be difficult to implement.
